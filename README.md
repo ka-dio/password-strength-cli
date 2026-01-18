@@ -5,12 +5,14 @@ Após baixar o repositório pelo GitHub e extrair o arquivo ZIP, abra o terminal
 # Linux
 
 cd ~/Downloads/password-strength-cli/
+
 python main.py
 
 
 # Windows
 
 cd Downloads\password-strength-cli
+
 python main.py
 
 
@@ -23,12 +25,14 @@ After downloading the repository from GitHub and extracting the ZIP file, open a
 # Linux
 
 cd ~/Downloads/password-strength-cli/
+
 python main.py
 
 
 # Windows
 
 cd Downloads\password-strength-cli
+
 python main.py
 
 
