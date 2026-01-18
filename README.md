@@ -4,16 +4,16 @@ Após baixar o repositório pelo GitHub e extrair o arquivo ZIP, abra o terminal
 
 # Linux
 
-cd ~/Downloads/password-strength-cli/
+```cd ~/Downloads/password-strength-cli/```
 
-python main.py
+```python main.py``` 
 
 
 # Windows
 
-cd Downloads\password-strength-cli
+```cd Downloads\password-strength-cli```
 
-python main.py
+```python main.py```
 
 
 É necessário ter o Python 3 instalado. Para encerrar o programa, pressione Ctrl + C.
@@ -24,16 +24,16 @@ After downloading the repository from GitHub and extracting the ZIP file, open a
 
 # Linux
 
-cd ~/Downloads/password-strength-cli/
+```cd ~/Downloads/password-strength-cli/```
 
-python main.py
+```python main.py```
 
 
 # Windows
 
-cd Downloads\password-strength-cli
+```cd Downloads\password-strength-cli```
 
-python main.py
+```python main.py```
 
 
 Python 3 is required. To exit the program, press Ctrl + C.
